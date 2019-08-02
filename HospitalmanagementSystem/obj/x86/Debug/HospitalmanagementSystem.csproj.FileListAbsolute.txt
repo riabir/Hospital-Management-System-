@@ -1,0 +1,82 @@
+c:\users\anupam hayat\documents\visual studio 2010\Projects\HospitalmanagementSystem\HospitalmanagementSystem\bin\Debug\HospitalmanagementSystem.exe
+c:\users\anupam hayat\documents\visual studio 2010\Projects\HospitalmanagementSystem\HospitalmanagementSystem\bin\Debug\HospitalmanagementSystem.pdb
+c:\users\anupam hayat\documents\visual studio 2010\Projects\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Form1.resources
+c:\users\anupam hayat\documents\visual studio 2010\Projects\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Main.resources
+c:\users\anupam hayat\documents\visual studio 2010\Projects\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Properties.Resources.resources
+c:\users\anupam hayat\documents\visual studio 2010\Projects\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.csproj.GenerateResource.Cache
+c:\users\anupam hayat\documents\visual studio 2010\Projects\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.exe
+c:\users\anupam hayat\documents\visual studio 2010\Projects\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.pdb
+c:\users\anupam hayat\documents\visual studio 2010\Projects\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.patient.resources
+C:\Users\Anupam Hayat\Documents\Visual Studio 2010\Projects\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Anupam Hayat\Documents\Visual Studio 2010\Projects\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.room.resources
+C:\Users\Anupam Hayat\Documents\Visual Studio 2010\Projects\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.word.resources
+C:\Users\Anupam Hayat\Documents\Visual Studio 2010\Projects\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.doctor.resources
+C:\Users\Anupam Hayat\Documents\Visual Studio 2010\Projects\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.bill.resources
+C:\Users\Anupam\Documents\Visual Studio 2010\Projects\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.exe
+C:\Users\Anupam\Documents\Visual Studio 2010\Projects\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.pdb
+C:\Users\Anupam\Documents\Visual Studio 2010\Projects\HospitalmanagementSystem\HospitalmanagementSystem\bin\Debug\HospitalmanagementSystem.exe
+C:\Users\Anupam\Documents\Visual Studio 2010\Projects\HospitalmanagementSystem\HospitalmanagementSystem\bin\Debug\HospitalmanagementSystem.pdb
+C:\Users\Anupam\Documents\Visual Studio 2010\Projects\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Anupam\Documents\Visual Studio 2010\Projects\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.bill.resources
+C:\Users\Anupam\Documents\Visual Studio 2010\Projects\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.doctor.resources
+C:\Users\Anupam\Documents\Visual Studio 2010\Projects\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Form1.resources
+C:\Users\Anupam\Documents\Visual Studio 2010\Projects\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Main.resources
+C:\Users\Anupam\Documents\Visual Studio 2010\Projects\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.patient.resources
+C:\Users\Anupam\Documents\Visual Studio 2010\Projects\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Properties.Resources.resources
+C:\Users\Anupam\Documents\Visual Studio 2010\Projects\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.room.resources
+C:\Users\Anupam\Documents\Visual Studio 2010\Projects\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.word.resources
+C:\Users\Anupam\Documents\Visual Studio 2010\Projects\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.csproj.GenerateResource.Cache
+C:\Users\Anupam\Documents\Visual Studio 2010\Projects\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.register.resources
+C:\Users\Anupam\Documents\Visual Studio 2010\Projects\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.reset.resources
+C:\Users\Anupam\Documents\Visual Studio 2010\Projects\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.newpass.resources
+C:\Users\Anupam\Desktop\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.exe
+C:\Users\Anupam\Desktop\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.pdb
+C:\Users\Anupam\Desktop\Project\HospitalmanagementSystem\HospitalmanagementSystem\bin\Debug\HospitalmanagementSystem.exe
+C:\Users\Anupam\Desktop\Project\HospitalmanagementSystem\HospitalmanagementSystem\bin\Debug\HospitalmanagementSystem.pdb
+C:\Users\Anupam\Desktop\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Anupam\Desktop\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.bill.resources
+C:\Users\Anupam\Desktop\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.doctor.resources
+C:\Users\Anupam\Desktop\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Form1.resources
+C:\Users\Anupam\Desktop\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Main.resources
+C:\Users\Anupam\Desktop\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.newpass.resources
+C:\Users\Anupam\Desktop\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.patient.resources
+C:\Users\Anupam\Desktop\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Properties.Resources.resources
+C:\Users\Anupam\Desktop\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.register.resources
+C:\Users\Anupam\Desktop\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.reset.resources
+C:\Users\Anupam\Desktop\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.room.resources
+C:\Users\Anupam\Desktop\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.word.resources
+C:\Users\Anupam\Desktop\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.csproj.GenerateResource.Cache
+G:\C# project(visual)\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.exe
+G:\C# project(visual)\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.pdb
+G:\C# project(visual)\Project\HospitalmanagementSystem\HospitalmanagementSystem\bin\Debug\HospitalmanagementSystem.exe
+G:\C# project(visual)\Project\HospitalmanagementSystem\HospitalmanagementSystem\bin\Debug\HospitalmanagementSystem.pdb
+G:\C# project(visual)\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.csprojResolveAssemblyReference.cache
+G:\C# project(visual)\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.bill.resources
+G:\C# project(visual)\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.doctor.resources
+G:\C# project(visual)\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Form1.resources
+G:\C# project(visual)\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Main.resources
+G:\C# project(visual)\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.newpass.resources
+G:\C# project(visual)\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.patient.resources
+G:\C# project(visual)\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Properties.Resources.resources
+G:\C# project(visual)\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.register.resources
+G:\C# project(visual)\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.reset.resources
+G:\C# project(visual)\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.room.resources
+G:\C# project(visual)\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.word.resources
+G:\C# project(visual)\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.csproj.GenerateResource.Cache
+D:\C# Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.exe
+D:\C# Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.pdb
+D:\C# Project\HospitalmanagementSystem\HospitalmanagementSystem\bin\Debug\HospitalmanagementSystem.exe
+D:\C# Project\HospitalmanagementSystem\HospitalmanagementSystem\bin\Debug\HospitalmanagementSystem.pdb
+D:\C# Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.csprojResolveAssemblyReference.cache
+D:\C# Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.bill.resources
+D:\C# Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.doctor.resources
+D:\C# Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Form1.resources
+D:\C# Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Main.resources
+D:\C# Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.newpass.resources
+D:\C# Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.patient.resources
+D:\C# Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Properties.Resources.resources
+D:\C# Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.register.resources
+D:\C# Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.reset.resources
+D:\C# Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.room.resources
+D:\C# Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.word.resources
+D:\C# Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.csproj.GenerateResource.Cache
